@@ -1,0 +1,9 @@
+textarea {
+  border: none;
+  background-color: #f9f9f9; }
+
+center {
+  font: 20px 'Andale', sans-serif; }
+
+.test-result {
+  display: none; }
